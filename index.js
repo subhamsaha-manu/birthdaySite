@@ -36,7 +36,7 @@ function buttonClicked() {
             clearInterval(removeInterval);
         }
      }
-    }, 1000);
+    }, 10000);
     
     var lastInterval = setInterval(function(){
         if(loopCount>=25){
