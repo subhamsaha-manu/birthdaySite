@@ -6,3 +6,13 @@ body{
 .iframe-row{
     margin-top: 20px;
 }
+
+.first-row .second-row {
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+p{
+    font-size: 20px;
+    color: floralwhite;
+}
